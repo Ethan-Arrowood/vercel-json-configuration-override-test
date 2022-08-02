@@ -1,0 +1,8 @@
+{
+  "name": "vercel-json-configuration-override-test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "echo '1' >> index.txt"
+  }
+}

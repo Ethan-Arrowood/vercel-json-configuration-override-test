@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "build": "echo '1' >> index.txt"
+    "build": "mkdir public && echo '1' >> public/index.txt"
   }
 }
